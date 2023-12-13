@@ -18,3 +18,6 @@ PORT=30000
     "dev": "nodemon server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+9. サーバプログラム「server.js」をコーディングしサーバー起動
+npm run dev
+10. ブラウザでアクセス http://localhost:3000
